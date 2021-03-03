@@ -1,2 +1,2 @@
 # Elias
-Lephoto books and games 
+E Lephoto software developer
